@@ -8,25 +8,25 @@ Kullanıcı kayıt/giriş, araç kaydı, otopark alanı yönetimi ve fiyat belir
 ## 📷 Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Giriş Ekranı](giris_ekrani.png)
+![Giriş Ekranı](Otopark_Arayüzü_png/giris_ekrani.png)
 
 ### 📝 Kayıt Ol Ekranı
-![Kayıt Ol](kayit_ol.png)
+![Kayıt Ol](Otopark_Arayüzü_png/kayit_ol.png)
 
 ### 🧾 Ana Menü (İşlem Seçimi)
-![Ana Menü](otopark_islemleri.png)
+![Ana Menü](Otopark_Arayüzü_png/otopark_islemleri.png)
 
 ### 🧑‍💼 Üye Kayıt Ekranı
-![Üye Kayıt](uye_kayit_ekrani.png)
+![Üye Kayıt](Otopark_Arayüzü_png/uye_kayit_ekrani.png)
 
 ### 🔍 Üye Arama Ekranı
-![Üye Arama](uye_arama.png)
+![Üye Arama](Otopark_Arayüzü_png/uye_arama.png)
 
 ### 🅿️ Otopark Alanı Görseli
-![Otopark Alanı](otopark_alani.png)
+![Otopark Alanı](Otopark_Arayüzü_png/otopark_alani.png)
 
 ### 💰 Fiyat Belirleme Paneli
-![Fiyat Belirleme](fiyat_belirleme.png)
+![Fiyat Belirleme](Otopark_Arayüzü_png/fiyat_belirleme.png)
 
 ---
 
